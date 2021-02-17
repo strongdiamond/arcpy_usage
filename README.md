@@ -1,2 +1,2 @@
 # arcpy_usage
-This program  can clip raster in batch-mode
+This program  introduces how to use arcpy to process image data
